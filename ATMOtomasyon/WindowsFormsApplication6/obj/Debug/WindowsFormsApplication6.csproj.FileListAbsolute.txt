@@ -1,0 +1,77 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Hesapİş.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaCek.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaYat.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Ödemeler.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.KartEk.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.GirişEk.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Menu1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.YönGrş.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.KartEk.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.GirişEk.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Menu1.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Hesapİş.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaCek.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaYat.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.YönGrş.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Ödemeler.resources
+E:\Yeni Klasör (2)\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.KartEk.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.GirişEk.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Menu1.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Hesapİş.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaCek.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaYat.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.YönGrş.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Ödemeler.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.KartEk.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.GirişEk.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Menu1.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Hesapİş.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaCek.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaYat.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.YönGrş.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Ödemeler.resources
+C:\Users\thegh\OneDrive\Belgeler\Visual Studio 2013\Projects\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.KartEk.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.GirişEk.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Menu1.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Hesapİş.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaCek.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.ParaYat.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.YönGrş.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Ödemeler.resources
+E:\Projeler\ATMOtomasyon\175541035_Hasan_Çahan\Proje Kodları\ATMOtomasyon\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
